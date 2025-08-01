@@ -41,7 +41,7 @@ to launch it on RunPod.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ashleykleynhans/facefusion-docker.git
+git clone https://github.com/4mandaklein/facefusion-docker.git
 
 # Log in to Docker Hub
 docker login
