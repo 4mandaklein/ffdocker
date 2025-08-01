@@ -3,7 +3,7 @@ variable "REGISTRY" {
 }
 
 variable "REGISTRY_USER" {
-    default = "ashleykza"
+    default = "4mandaklein"
 }
 
 variable "APP" {
@@ -11,7 +11,7 @@ variable "APP" {
 }
 
 variable "RELEASE" {
-    default = "3.3.2"
+    default = "v3.3.2"
 }
 
 variable "CU_VERSION" {
