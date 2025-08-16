@@ -7,11 +7,11 @@ variable "REGISTRY_USER" {
 }
 
 variable "APP" {
-    default = "facefusion"
+    default = "ffdocker"
 }
 
 variable "RELEASE" {
-    default = "v3.3.2"
+    default = "docker1"
 }
 
 variable "CU_VERSION" {
